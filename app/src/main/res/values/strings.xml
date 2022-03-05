@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="coste_de_servicio">Coste de servicio</string>
+    <string name="qu_tal_el_servicio">¿Qué tal el servicio?</string>
+    <string name="asombroso_20">Asombroso (20%)</string>
+    <string name="buena_18">Buena (18%)</string>
+    <string name="aceptable_15">Aceptable (15%)</string>
+    <string name="redondear_propina">¿Redondear propina?</string>
+    <string name="calcular">Calcular</string>
+    <string name="cantidad_de_propina">Cantidad de propina</string>
+</resources>
