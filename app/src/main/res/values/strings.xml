@@ -7,5 +7,5 @@
     <string name="aceptable_15">Aceptable (15%)</string>
     <string name="redondear_propina">¿Redondear propina?</string>
     <string name="calcular">Calcular</string>
-    <string name="cantidad_de_propina">Cantidad de propina</string>
+    <string name="cantidad_de_propina">Cantidad de propina: %s</string>
 </resources>
